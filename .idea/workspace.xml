@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcd2b6c3-7df6-47e3-a778-bf289ccf3fe5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/patient-service/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/patient-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient-service/src/main/java/com/pm/patientservice/model/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/patient-service/src/main/java/com/pm/patientservice/model/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/patient-service/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="3b3d625a-83bc-4563-ad20-431c6d824b2c" value="" />
+    </colors>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.338503080899652E-47" />
+      <entry key="MS500" value="4.220111008115736E-10" />
+      <entry key="S2" value="0.00453242857328426" />
+      <entry key="S5" value="0.11548737347526401" />
+      <entry key="S10" value="0.3431343638186801" />
+      <entry key="S30" value="1.820082444848543" />
+      <entry key="S60" value="5.685202910884629" />
+      <entry key="M2" value="11.124335924592701" />
+      <entry key="M5" value="20.353945927365263" />
+      <entry key="M10" value="49.485104512537006" />
+      <entry key="M15" value="92.17413465679358" />
+      <entry key="M30" value="203.1637443823904" />
+      <entry key="H1" value="316.49482616166154" />
+      <entry key="H2" value="398.7234272198058" />
+      <entry key="H4" value="448.44413887507875" />
+      <entry key="D1" value="495.05966147357555" />
+      <entry key="W1" value="503.56680164392236" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0005961654214572" />
+      <entry key="S2" value="1.1596477854999365" />
+      <entry key="S5" value="1.5787434842926702" />
+      <entry key="S10" value="2.010528083578075" />
+      <entry key="S30" value="2.5680585431499816" />
+      <entry key="S60" value="2.767320038300093" />
+      <entry key="M2" value="2.879207003670576" />
+      <entry key="M5" value="3.1060552378860504" />
+      <entry key="M10" value="5.080894659840259" />
+      <entry key="M15" value="8.183090667949202" />
+      <entry key="M30" value="16.123216061216148" />
+      <entry key="H1" value="24.05735241405159" />
+      <entry key="H2" value="29.735793197966576" />
+      <entry key="H4" value="33.143798008372116" />
+      <entry key="D1" value="36.323693243159106" />
+      <entry key="W1" value="36.902527247516794" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="7.689623360905325E-17" />
+      <entry key="MS500" value="6.923234829204906E-4" />
+      <entry key="S2" value="0.26082435050695174" />
+      <entry key="S5" value="1.0673926526704767" />
+      <entry key="S10" value="1.947714357886111" />
+      <entry key="S30" value="4.219919356919084" />
+      <entry key="S60" value="8.36269767109109" />
+      <entry key="M2" value="13.956899224645328" />
+      <entry key="M5" value="23.439715793167217" />
+      <entry key="M10" value="54.548478196841934" />
+      <entry key="M15" value="100.33763047450972" />
+      <entry key="M30" value="219.26685559906255" />
+      <entry key="H1" value="340.53691578667787" />
+      <entry key="H2" value="428.44971371742554" />
+      <entry key="H4" value="481.58261919010954" />
+      <entry key="D1" value="531.3823805219907" />
+      <entry key="W1" value="540.4691874326265" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="AISelfReview" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KhpbvGUNAgWZC0TulUlozrXcDR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.PatientServiceApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Patient-management",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="PatientServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="patient-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pm.patientservice.PatientServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcd2b6c3-7df6-47e3-a778-bf289ccf3fe5" name="Changes" comment="" />
+      <created>1792019728428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792019728428</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
