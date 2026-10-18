@@ -1,4 +1,4 @@
-package com.pm.patientservice.dto;
+package com.pm.patientservice.exception;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.MethodArgumentNotValidException;
