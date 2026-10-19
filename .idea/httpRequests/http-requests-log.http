@@ -1,3 +1,13 @@
+GRPC localhost:9001/BillingService/createBillingAccount
+
+<> 2026-10-20T015528.OK.json
+
+###
+GRPC localhost:9001/BillingService/createBillingAccount
+
+<> 2026-10-20T015516.OK.json
+
+###
 GET http://localhost:4000/patients
 
 <> 2026-10-19T180855.200.json
@@ -539,33 +549,5 @@ Content-Type: application/json
 }
 
 <> 2026-10-18T221730.400.json
-
-###
-POST http://localhost:4000/patients
-Content-Type: application/json
-
-{
-  "name": "Harsh M1",
-  "email": "123xample.com",
-  "address": "123 main street",
-  "dateOfBirth": "2000-12-11",
-  "registeredDate": "2010-12-13"
-}
-
-<> 2026-10-18T221720.400.json
-
-###
-POST http://localhost:4000/patients
-Content-Type: application/json
-
-{
-  "name": "Harsh M1",
-  "email": "123@Example.com",
-  "address": "123 main street",
-  "dateOfBirth": "2000-12-11",
-  "registeredDate": "2010-12-13"
-}
-
-<> 2026-10-18T220016.500.json
 
 ###

@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcd2b6c3-7df6-47e3-a778-bf289ccf3fe5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/db-forest-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patient-service/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/data_sources_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/data_sources_history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc-requests/billing-service/create-billing-account.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-10-18T220016.500.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-10-18T221720.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/patient-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,11 +30,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Exception" />
         <option value="Interface" />
-        <option value="HTTP Request" />
         <option value="Dockerfile" />
+        <option value="Class" />
+        <option value="HTTP Request" />
       </list>
     </option>
   </component>
@@ -43,61 +46,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.7266522235680086" />
-      <entry key="MS500" value="3.603071500180684" />
-      <entry key="S2" value="7.519659000132196" />
-      <entry key="S5" value="10.550308753881424" />
-      <entry key="S10" value="12.083159953417441" />
-      <entry key="S30" value="13.312432034651296" />
-      <entry key="S60" value="13.64972256134914" />
-      <entry key="M2" value="13.823204946736176" />
-      <entry key="M5" value="13.931652887311602" />
-      <entry key="M10" value="14.522986488193416" />
-      <entry key="M15" value="18.256266500474347" />
-      <entry key="M30" value="67.35069953169204" />
-      <entry key="H1" value="268.76469584109174" />
-      <entry key="H2" value="750.9712578934596" />
-      <entry key="H4" value="1623.2237037544774" />
-      <entry key="D1" value="3803.557377693641" />
-      <entry key="W1" value="4488.885376546822" />
+      <entry key="MS100" value="1.9190573420489243" />
+      <entry key="MS500" value="5.153708154499334" />
+      <entry key="S2" value="9.532285008893115" />
+      <entry key="S5" value="14.129088475656967" />
+      <entry key="S10" value="20.8489294637215" />
+      <entry key="S30" value="39.665723908872216" />
+      <entry key="S60" value="52.15512427066382" />
+      <entry key="M2" value="61.20568262643006" />
+      <entry key="M5" value="67.89833589095093" />
+      <entry key="M10" value="70.38031538911784" />
+      <entry key="M15" value="71.2640037800548" />
+      <entry key="M30" value="74.39949225748178" />
+      <entry key="H1" value="96.7640998932978" />
+      <entry key="H2" value="192.38238250456354" />
+      <entry key="H4" value="605.698186894826" />
+      <entry key="D1" value="3571.067877610536" />
+      <entry key="W1" value="5153.570954518834" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="7.456157094437749E-280" />
-      <entry key="S10" value="3.9909274497329853E-140" />
-      <entry key="S30" value="8.300277550745012E-47" />
-      <entry key="S60" value="2.2752810397347827E-23" />
-      <entry key="M2" value="1.4120800290700417E-11" />
-      <entry key="M5" value="1.884880131827121E-4" />
-      <entry key="M10" value="0.0481109129606851" />
-      <entry key="M15" value="0.34143988925938684" />
-      <entry key="M30" value="3.3444686664473067" />
-      <entry key="H1" value="15.252901481082892" />
-      <entry key="H2" value="52.28380773654495" />
-      <entry key="H4" value="130.55276888502675" />
-      <entry key="D1" value="334.57602377836025" />
-      <entry key="W1" value="398.96693521784977" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="2.5E-323" />
+      <entry key="S30" value="5.80170190023336E-108" />
+      <entry key="S60" value="4.172572494610812E-54" />
+      <entry key="M2" value="3.761425658680595E-27" />
+      <entry key="M5" value="1.0545726415017261E-10" />
+      <entry key="M10" value="5.19834863561659E-5" />
+      <entry key="M15" value="0.004452652799155352" />
+      <entry key="M30" value="0.399855375085528" />
+      <entry key="H1" value="3.8974073074870406" />
+      <entry key="H2" value="14.170323745064458" />
+      <entry key="H4" value="46.89299524916254" />
+      <entry key="D1" value="293.5988196092895" />
+      <entry key="W1" value="430.1182084872951" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.6048030282347077" />
-      <entry key="MS500" value="3.5263678235831897" />
-      <entry key="S2" value="7.477165136060137" />
-      <entry key="S5" value="10.525422572852074" />
-      <entry key="S10" value="12.068679818167453" />
-      <entry key="S30" value="13.307056516883767" />
-      <entry key="S60" value="13.646959240010279" />
-      <entry key="M2" value="13.821803833165406" />
-      <entry key="M5" value="13.93127520460306" />
-      <entry key="M10" value="14.570682368084144" />
-      <entry key="M15" value="18.596849911555086" />
-      <entry key="M30" value="70.69139523488147" />
-      <entry key="H1" value="284.0088264213715" />
-      <entry key="H2" value="803.2403487243286" />
-      <entry key="H4" value="1753.758318167846" />
-      <entry key="D1" value="4138.125655762205" />
-      <entry key="W1" value="4887.850991247008" />
+      <entry key="MS100" value="1.8529297562284077" />
+      <entry key="MS500" value="5.091415523161362" />
+      <entry key="S2" value="9.502307630472306" />
+      <entry key="S5" value="14.11175453295051" />
+      <entry key="S10" value="20.836213294687653" />
+      <entry key="S30" value="39.65739200168307" />
+      <entry key="S60" value="52.14952992807484" />
+      <entry key="M2" value="61.202358199502996" />
+      <entry key="M5" value="67.89684860365416" />
+      <entry key="M10" value="70.37959426275962" />
+      <entry key="M15" value="71.26792726867792" />
+      <entry key="M30" value="74.79875581471212" />
+      <entry key="H1" value="100.65975698289" />
+      <entry key="H2" value="206.5495697379071" />
+      <entry key="H4" value="652.5854523374192" />
+      <entry key="D1" value="3864.6601446692307" />
+      <entry key="W1" value="5583.6877787764815" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -116,11 +119,13 @@
   "keyToString": {
     "Docker.patient-service-db.executor": "Run",
     "Docker.patient-service.executor": "Run",
+    "HTTP Request.create-billing-account | #1.executor": "Run",
     "HTTP Request.create-patient | POST Request to create a new Entity.executor": "Run",
     "HTTP Request.delete-patient | Delete an entity with given id.executor": "Run",
     "HTTP Request.get-patients | GET request to get all patients.executor": "Run",
     "HTTP Request.http-requests-log | #1.executor": "Run",
     "HTTP Request.update-patient | PUT Request to update an existing Entity.executor": "Run",
+    "Maven.billing-service [compile].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
@@ -130,6 +135,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.BillingServiceApplication.executor": "Run",
     "Spring Boot.PatientServiceApplication.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -157,7 +163,7 @@
         <entry key="HttpClient.HttpRequestRunConfigurationType">
           <value>
             <map>
-              <entry key="create-patient | POST Request to create a new Entity" value="STOPPED" />
+              <entry key="create-billing-account | #1" value="STOPPED" />
               <entry key="delete-patient | Delete an entity with given id" value="STOPPED" />
               <entry key="get-patients | GET request to get all patients" value="STOPPED" />
               <entry key="http-requests-log | #1" value="STOPPED" />
@@ -168,8 +174,8 @@
       </map>
     </option>
   </component>
-  <component name="RunManager" selected="Docker.patient-service">
-    <configuration name="create-patient | POST Request to create a new Entity" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/patient-service/create-patient.http" executionIdentifier="POST Request to create a new Entity" runType="Run single request">
+  <component name="RunManager" selected="Spring Boot.BillingServiceApplication">
+    <configuration name="create-billing-account | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/grpc-requests/billing-service/create-billing-account.http" executionIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="delete-patient | Delete an entity with given id" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/patient-service/delete-patient.http" executionIdentifier="Delete an entity with given id" runType="Run single request">
@@ -183,6 +189,13 @@
     </configuration>
     <configuration name="update-patient | PUT Request to update an existing Entity" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/patient-service/update-patient.http" executionIdentifier="PUT Request to update an existing Entity" runType="Run single request">
       <method v="2" />
+    </configuration>
+    <configuration name="BillingServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="billing-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pm.billingservice.BillingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="PatientServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -280,20 +293,21 @@
     <list>
       <item itemvalue="Docker.patient-service-db" />
       <item itemvalue="Docker.patient-service" />
-      <item itemvalue="HTTP Request.create-patient | POST Request to create a new Entity" />
+      <item itemvalue="HTTP Request.create-billing-account | #1" />
       <item itemvalue="HTTP Request.delete-patient | Delete an entity with given id" />
       <item itemvalue="HTTP Request.get-patients | GET request to get all patients" />
       <item itemvalue="HTTP Request.http-requests-log | #1" />
       <item itemvalue="HTTP Request.update-patient | PUT Request to update an existing Entity" />
+      <item itemvalue="Spring Boot.BillingServiceApplication" />
       <item itemvalue="Spring Boot.PatientServiceApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="HTTP Request.create-billing-account | #1" />
         <item itemvalue="HTTP Request.get-patients | GET request to get all patients" />
         <item itemvalue="HTTP Request.delete-patient | Delete an entity with given id" />
         <item itemvalue="HTTP Request.update-patient | PUT Request to update an existing Entity" />
         <item itemvalue="HTTP Request.http-requests-log | #1" />
-        <item itemvalue="HTTP Request.create-patient | POST Request to create a new Entity" />
       </list>
     </recent_temporary>
   </component>
