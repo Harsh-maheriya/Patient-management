@@ -1,0 +1,571 @@
+GET http://localhost:4000/patients
+
+<> 2026-10-19T180855.200.json
+
+###
+DELETE http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+
+###
+DELETE http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+
+###
+DELETE http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe new",
+  "email": "test_updated_4@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T031256.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Dsdijfdoe1",
+  "email": "test_updated_4@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T031244.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe1",
+  "email": "test_updated_4@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T031238.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe1",
+  "email": "test_updated_3@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T031226.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe1",
+  "email": "test_updated_3@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T031225.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe1",
+  "email": "test_updated_3@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T031222-1.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe1",
+  "email": "test_updated_3@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T031222.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe1",
+  "email": "test_updated_3@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T031219.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "test_updated_3@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T030055.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "test_updated_3@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T030052.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "test_updated_2@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T030046.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "test_updated_2@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T030043.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "test_updated_1@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T030039.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "test_updated_1@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T030036.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "test_updated@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T024326.400.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "123@Example.com",
+  "address": "123 main street",
+  "dateOfBirth": "2000-12-11",
+  "registeredDate": "2010-12-13"
+}
+
+<> 2026-10-19T024240.400.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "123@Example.com",
+  "address": "123 main street",
+  "dateOfBirth": "2000-12-11",
+  "registeredDate": "2010-12-13"
+}
+
+<> 2026-10-19T024239.200.json
+
+###
+GET http://localhost:4000/patients
+
+<> 2026-10-19T024119.200.json
+
+###
+GET http://localhost:4000/patients
+
+<> 2026-10-19T024118.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "test_updated@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T024111.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "test_updated@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T024101.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "test_updated@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T024058.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "test_updated@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T023959.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "test_updated@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T023956.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "test_updated@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T023954.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "test_updated@gmail.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
+}
+
+<> 2026-10-19T023940.400.json
+
+###
+GET http://localhost:4000/patients
+
+<> 2026-10-19T022242.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "1234@gmail.com",
+  "address": "123 main second street",
+  "dateOfBirth": "2000-12-11"
+}
+
+<> 2026-10-19T022230.400.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "123@Example.com",
+  "address": "123 main street",
+  "dateOfBirth": "2000-12-11",
+  "registeredDate": "2010-12-13"
+}
+
+<> 2026-10-19T022222.400.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "123@Example.com",
+  "address": "123 main street",
+  "dateOfBirth": "2000-12-11",
+  "registeredDate": "2010-12-13"
+}
+
+<> 2026-10-19T022218.200.json
+
+###
+GET http://localhost:4000/patients
+
+<> 2026-10-19T022153.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "",
+  "address": "123 main second street",
+  "dateOfBirth": "2000-12-11"
+}
+
+<> 2026-10-19T003504.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "",
+  "address": "123 main second street",
+  "dateOfBirth": "2000-12-11"
+}
+
+<> 2026-10-19T003503.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "",
+  "address": "123 main second street",
+  "dateOfBirth": "2000-12-11"
+}
+
+<> 2026-10-19T003501.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "",
+  "address": "123 main second street",
+  "dateOfBirth": "2000-12-11"
+}
+
+<> 2026-10-19T003454.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "address": "123 main second street",
+  "dateOfBirth": "2000-12-11"
+}
+
+<> 2026-10-19T003349.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "123456789@Example.com",
+  "address": "123 main second street",
+  "dateOfBirth": "2000-12-11"
+}
+
+<> 2026-10-19T003034.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "123456789@Example.com",
+  "address": "123 main second street",
+  "dateOfBirth": "2000-12-11"
+}
+
+<> 2026-10-19T003026.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "123456789@Example.com",
+  "address": "123 main second street",
+  "dateOfBirth": "2000-12-11",
+}
+
+<> 2026-10-19T003016.400.json
+
+###
+GET http://localhost:4000/patients
+
+<> 2026-10-18T230453.200.json
+
+###
+GET http://localhost:4000/patients
+
+<> 2026-10-18T230452.200.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "123@Example.com",
+  "address": "123 main street",
+  "dateOfBirth": "2000-12-11",
+  "registeredDate": "2010-12-13"
+}
+
+<> 2026-10-18T230409.400.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "123@Example.com",
+  "address": "123 main street",
+  "dateOfBirth": "2000-12-11",
+  "registeredDate": "2010-12-13"
+}
+
+<> 2026-10-18T230405.200.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "address": "123 main street",
+  "dateOfBirth": "2000-12-11",
+  "registeredDate": "2010-12-13"
+}
+
+<> 2026-10-18T221730.400.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "123xample.com",
+  "address": "123 main street",
+  "dateOfBirth": "2000-12-11",
+  "registeredDate": "2010-12-13"
+}
+
+<> 2026-10-18T221720.400.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "123@Example.com",
+  "address": "123 main street",
+  "dateOfBirth": "2000-12-11",
+  "registeredDate": "2010-12-13"
+}
+
+<> 2026-10-18T220016.500.json
+
+###

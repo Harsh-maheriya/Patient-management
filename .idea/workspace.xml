@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcd2b6c3-7df6-47e3-a778-bf289ccf3fe5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/patient-service/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/patient-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient-service/src/main/java/com/pm/patientservice/model/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/patient-service/src/main/java/com/pm/patientservice/model/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/db-forest-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patient-service/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/data_sources_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/data_sources_history.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/patient-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/patient-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,84 +21,92 @@
   <component name="DatabaseLocalColorSettings">
     <colors>
       <entry key="3b3d625a-83bc-4563-ad20-431c6d824b2c" value="" />
+      <entry key="6707dcf6-bfe1-45ec-8727-c44ea57a4cc2" value="" />
     </colors>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Exception" />
+        <option value="Interface" />
+        <option value="HTTP Request" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HttpClientOnboardingState">{
+  &quot;isOnboardingCommentShown&quot;: true
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.338503080899652E-47" />
-      <entry key="MS500" value="4.220111008115736E-10" />
-      <entry key="S2" value="0.00453242857328426" />
-      <entry key="S5" value="0.11548737347526401" />
-      <entry key="S10" value="0.3431343638186801" />
-      <entry key="S30" value="1.820082444848543" />
-      <entry key="S60" value="5.685202910884629" />
-      <entry key="M2" value="11.124335924592701" />
-      <entry key="M5" value="20.353945927365263" />
-      <entry key="M10" value="49.485104512537006" />
-      <entry key="M15" value="92.17413465679358" />
-      <entry key="M30" value="203.1637443823904" />
-      <entry key="H1" value="316.49482616166154" />
-      <entry key="H2" value="398.7234272198058" />
-      <entry key="H4" value="448.44413887507875" />
-      <entry key="D1" value="495.05966147357555" />
-      <entry key="W1" value="503.56680164392236" />
+      <entry key="MS100" value="1.7266522235680086" />
+      <entry key="MS500" value="3.603071500180684" />
+      <entry key="S2" value="7.519659000132196" />
+      <entry key="S5" value="10.550308753881424" />
+      <entry key="S10" value="12.083159953417441" />
+      <entry key="S30" value="13.312432034651296" />
+      <entry key="S60" value="13.64972256134914" />
+      <entry key="M2" value="13.823204946736176" />
+      <entry key="M5" value="13.931652887311602" />
+      <entry key="M10" value="14.522986488193416" />
+      <entry key="M15" value="18.256266500474347" />
+      <entry key="M30" value="67.35069953169204" />
+      <entry key="H1" value="268.76469584109174" />
+      <entry key="H2" value="750.9712578934596" />
+      <entry key="H4" value="1623.2237037544774" />
+      <entry key="D1" value="3803.557377693641" />
+      <entry key="W1" value="4488.885376546822" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0005961654214572" />
-      <entry key="S2" value="1.1596477854999365" />
-      <entry key="S5" value="1.5787434842926702" />
-      <entry key="S10" value="2.010528083578075" />
-      <entry key="S30" value="2.5680585431499816" />
-      <entry key="S60" value="2.767320038300093" />
-      <entry key="M2" value="2.879207003670576" />
-      <entry key="M5" value="3.1060552378860504" />
-      <entry key="M10" value="5.080894659840259" />
-      <entry key="M15" value="8.183090667949202" />
-      <entry key="M30" value="16.123216061216148" />
-      <entry key="H1" value="24.05735241405159" />
-      <entry key="H2" value="29.735793197966576" />
-      <entry key="H4" value="33.143798008372116" />
-      <entry key="D1" value="36.323693243159106" />
-      <entry key="W1" value="36.902527247516794" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="7.456157094437749E-280" />
+      <entry key="S10" value="3.9909274497329853E-140" />
+      <entry key="S30" value="8.300277550745012E-47" />
+      <entry key="S60" value="2.2752810397347827E-23" />
+      <entry key="M2" value="1.4120800290700417E-11" />
+      <entry key="M5" value="1.884880131827121E-4" />
+      <entry key="M10" value="0.0481109129606851" />
+      <entry key="M15" value="0.34143988925938684" />
+      <entry key="M30" value="3.3444686664473067" />
+      <entry key="H1" value="15.252901481082892" />
+      <entry key="H2" value="52.28380773654495" />
+      <entry key="H4" value="130.55276888502675" />
+      <entry key="D1" value="334.57602377836025" />
+      <entry key="W1" value="398.96693521784977" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="7.689623360905325E-17" />
-      <entry key="MS500" value="6.923234829204906E-4" />
-      <entry key="S2" value="0.26082435050695174" />
-      <entry key="S5" value="1.0673926526704767" />
-      <entry key="S10" value="1.947714357886111" />
-      <entry key="S30" value="4.219919356919084" />
-      <entry key="S60" value="8.36269767109109" />
-      <entry key="M2" value="13.956899224645328" />
-      <entry key="M5" value="23.439715793167217" />
-      <entry key="M10" value="54.548478196841934" />
-      <entry key="M15" value="100.33763047450972" />
-      <entry key="M30" value="219.26685559906255" />
-      <entry key="H1" value="340.53691578667787" />
-      <entry key="H2" value="428.44971371742554" />
-      <entry key="H4" value="481.58261919010954" />
-      <entry key="D1" value="531.3823805219907" />
-      <entry key="W1" value="540.4691874326265" />
+      <entry key="MS100" value="1.6048030282347077" />
+      <entry key="MS500" value="3.5263678235831897" />
+      <entry key="S2" value="7.477165136060137" />
+      <entry key="S5" value="10.525422572852074" />
+      <entry key="S10" value="12.068679818167453" />
+      <entry key="S30" value="13.307056516883767" />
+      <entry key="S60" value="13.646959240010279" />
+      <entry key="M2" value="13.821803833165406" />
+      <entry key="M5" value="13.93127520460306" />
+      <entry key="M10" value="14.570682368084144" />
+      <entry key="M15" value="18.596849911555086" />
+      <entry key="M30" value="70.69139523488147" />
+      <entry key="H1" value="284.0088264213715" />
+      <entry key="H2" value="803.2403487243286" />
+      <entry key="H4" value="1753.758318167846" />
+      <entry key="D1" value="4138.125655762205" />
+      <entry key="W1" value="4887.850991247008" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="AISelfReview" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3KhpbvGUNAgWZC0TulUlozrXcDR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -103,16 +114,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Docker.patient-service-db.executor": "Run",
+    "Docker.patient-service.executor": "Run",
+    "HTTP Request.create-patient | POST Request to create a new Entity.executor": "Run",
+    "HTTP Request.delete-patient | Delete an entity with given id.executor": "Run",
+    "HTTP Request.get-patients | GET request to get all patients.executor": "Run",
+    "HTTP Request.http-requests-log | #1.executor": "Run",
+    "HTTP Request.update-patient | PUT Request to update an existing Entity.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.PatientServiceApplication.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Patient-management",
     "node.js.detected.package.eslint": "true",
@@ -120,10 +142,48 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "to.speed.mode.migration.done": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="HttpClient.HttpRequestRunConfigurationType">
+          <value>
+            <map>
+              <entry key="create-patient | POST Request to create a new Entity" value="STOPPED" />
+              <entry key="delete-patient | Delete an entity with given id" value="STOPPED" />
+              <entry key="get-patients | GET request to get all patients" value="STOPPED" />
+              <entry key="http-requests-log | #1" value="STOPPED" />
+              <entry key="update-patient | PUT Request to update an existing Entity" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.patient-service">
+    <configuration name="create-patient | POST Request to create a new Entity" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/patient-service/create-patient.http" executionIdentifier="POST Request to create a new Entity" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="delete-patient | Delete an entity with given id" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/patient-service/delete-patient.http" executionIdentifier="Delete an entity with given id" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="get-patients | GET request to get all patients" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/patient-service/get-patients.http" executionIdentifier="GET request to get all patients" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="http-requests-log | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" executionIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="update-patient | PUT Request to update an existing Entity" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/patient-service/update-patient.http" executionIdentifier="PUT Request to update an existing Entity" runType="Run single request">
+      <method v="2" />
+    </configuration>
     <configuration name="PatientServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="patient-service" />
@@ -132,6 +192,110 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="patient-service-db" type="docker-deploy" factoryName="docker-image" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="postgres:latest" />
+          <option name="containerName" value="patient-service-db" />
+          <option name="envVars">
+            <list>
+              <DockerEnvVarImpl>
+                <option name="name" value="POSTGRES_USER" />
+                <option name="value" value="admin_user" />
+              </DockerEnvVarImpl>
+              <DockerEnvVarImpl>
+                <option name="name" value="POSTGRES_PASSWORD" />
+                <option name="value" value="password" />
+              </DockerEnvVarImpl>
+              <DockerEnvVarImpl>
+                <option name="name" value="POSTGRES_DB" />
+                <option name="value" value="db" />
+              </DockerEnvVarImpl>
+            </list>
+          </option>
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="5432" />
+                <option name="hostPort" value="5000" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="--network internal" />
+          <option name="volumeBindings">
+            <list>
+              <DockerVolumeBindingImpl>
+                <option name="containerPath" value="/var/lib/postgresql/" />
+                <option name="hostPath" value="D:\DB_FOR_DOCKER\patient-service-db" />
+              </DockerVolumeBindingImpl>
+            </list>
+          </option>
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="patient-service" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="patient-service:latest" />
+          <option name="containerName" value="patient-service" />
+          <option name="envVars">
+            <list>
+              <DockerEnvVarImpl>
+                <option name="name" value="SPRING_DATASOURCE_PASSWORD" />
+                <option name="value" value="password" />
+              </DockerEnvVarImpl>
+              <DockerEnvVarImpl>
+                <option name="name" value="SPRING_DATASOURCE_URL" />
+                <option name="value" value="jdbc:postgresql://patient-service-db:5432/db" />
+              </DockerEnvVarImpl>
+              <DockerEnvVarImpl>
+                <option name="name" value="SPRING_DATASOURCE_USERNAME" />
+                <option name="value" value="admin_user" />
+              </DockerEnvVarImpl>
+              <DockerEnvVarImpl>
+                <option name="name" value="SPRING_JPA_HIBERNATE_DDL_AUTO" />
+                <option name="value" value="update" />
+              </DockerEnvVarImpl>
+              <DockerEnvVarImpl>
+                <option name="name" value="SPRING_SQL_INIT_MODE" />
+                <option name="value" value="always" />
+              </DockerEnvVarImpl>
+            </list>
+          </option>
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="4000" />
+                <option name="hostPort" value="4000" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="--network internal" />
+          <option name="sourceFilePath" value="patient-service/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.patient-service-db" />
+      <item itemvalue="Docker.patient-service" />
+      <item itemvalue="HTTP Request.create-patient | POST Request to create a new Entity" />
+      <item itemvalue="HTTP Request.delete-patient | Delete an entity with given id" />
+      <item itemvalue="HTTP Request.get-patients | GET request to get all patients" />
+      <item itemvalue="HTTP Request.http-requests-log | #1" />
+      <item itemvalue="HTTP Request.update-patient | PUT Request to update an existing Entity" />
+      <item itemvalue="Spring Boot.PatientServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.get-patients | GET request to get all patients" />
+        <item itemvalue="HTTP Request.delete-patient | Delete an entity with given id" />
+        <item itemvalue="HTTP Request.update-patient | PUT Request to update an existing Entity" />
+        <item itemvalue="HTTP Request.http-requests-log | #1" />
+        <item itemvalue="HTTP Request.create-patient | POST Request to create a new Entity" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
