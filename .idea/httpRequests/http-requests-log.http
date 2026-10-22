@@ -1,3 +1,48 @@
+GET http://localhost:4004/api/patients
+
+<> 2026-10-23T001914.200.json
+
+###
+GET http://localhost:4004/api/patients
+
+<> 2026-10-23T001913.200.json
+
+###
+GET http://localhost:4004/api/patients
+
+<> 2026-10-23T001900.200.json
+
+###
+GET http://localhost:4004/api/patients
+
+<> 2026-10-23T000718.404.json
+
+###
+GET http://localhost:4004/api/patients
+
+<> 2026-10-23T000528.404.json
+
+###
+GET http://localhost:4004/api/patients
+
+<> 2026-10-23T000446.404.json
+
+###
+GET http://localhost:4004/api/patients
+
+<> 2026-10-23T000257.404.json
+
+###
+GET http://localhost:4004/api/patient
+
+<> 2026-10-23T000253.404.json
+
+###
+GET http://localhost:4004/api/patients
+
+<> 2026-10-23T000229.404.json
+
+###
 POST http://localhost:4000/patients
 Content-Type: application/json
 
@@ -399,108 +444,5 @@ Content-Type: application/json
 }
 
 <> 2026-10-19T030039.400.json
-
-###
-PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
-Content-Type: application/json
-
-{
-  "name": "John Doe",
-  "email": "test_updated_1@gmail.com",
-  "address": "123 Main St, Springfield",
-  "dateOfBirth": "1985-06-15"
-}
-
-<> 2026-10-19T030036.200.json
-
-###
-PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
-Content-Type: application/json
-
-{
-  "name": "John Doe",
-  "email": "test_updated@gmail.com",
-  "address": "123 Main St, Springfield",
-  "dateOfBirth": "1985-06-15"
-}
-
-<> 2026-10-19T024326.400.json
-
-###
-POST http://localhost:4000/patients
-Content-Type: application/json
-
-{
-  "name": "Harsh M1",
-  "email": "123@Example.com",
-  "address": "123 main street",
-  "dateOfBirth": "2000-12-11",
-  "registeredDate": "2010-12-13"
-}
-
-<> 2026-10-19T024240.400.json
-
-###
-POST http://localhost:4000/patients
-Content-Type: application/json
-
-{
-  "name": "Harsh M1",
-  "email": "123@Example.com",
-  "address": "123 main street",
-  "dateOfBirth": "2000-12-11",
-  "registeredDate": "2010-12-13"
-}
-
-<> 2026-10-19T024239.200.json
-
-###
-GET http://localhost:4000/patients
-
-<> 2026-10-19T024119.200.json
-
-###
-GET http://localhost:4000/patients
-
-<> 2026-10-19T024118.200.json
-
-###
-PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
-Content-Type: application/json
-
-{
-  "name": "John Doe",
-  "email": "test_updated@gmail.com",
-  "address": "123 Main St, Springfield",
-  "dateOfBirth": "1985-06-15"
-}
-
-<> 2026-10-19T024111.400.json
-
-###
-PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
-Content-Type: application/json
-
-{
-  "name": "John Doe",
-  "email": "test_updated@gmail.com",
-  "address": "123 Main St, Springfield",
-  "dateOfBirth": "1985-06-15"
-}
-
-<> 2026-10-19T024101.400.json
-
-###
-PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
-Content-Type: application/json
-
-{
-  "name": "John Doe",
-  "email": "test_updated@gmail.com",
-  "address": "123 Main St, Springfield",
-  "dateOfBirth": "1985-06-15"
-}
-
-<> 2026-10-19T024058.400.json
 
 ###

@@ -103,5 +103,26 @@
     "email": "isabella.walker@example.com",
     "id": "223e4567-e89b-12d3-a456-426614174014",
     "name": "Isabella Walker"
+  },
+  {
+    "address": "123 main street",
+    "dateOfBirth": "2000-12-11",
+    "email": "123@Example.com",
+    "id": "ffc687fa-9e37-4d19-ba49-fce0c07337dc",
+    "name": "Harsh M1"
+  },
+  {
+    "address": "123 main street",
+    "dateOfBirth": "2000-12-11",
+    "email": "123_billing_account_kafka@Example.com",
+    "id": "9851ede0-f699-46a7-b06a-8a1eb5e74aee",
+    "name": "Harsh M1 with billing account and kafka"
+  },
+  {
+    "address": "123 main street",
+    "dateOfBirth": "2000-12-11",
+    "email": "123_billing_account_kafka_analytic@Example.com",
+    "id": "c8a0f521-7e33-46ea-be3e-5c91a2a60903",
+    "name": "Harsh M1 with billing account,kafka and analytics"
   }
 ]
