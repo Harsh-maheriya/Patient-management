@@ -2,6 +2,20 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
+  "name": "Harsh M1 with billing account,kafka and analytics",
+  "email": "123_billing_account_kafka_analytic@Example.com",
+  "address": "123 main street",
+  "dateOfBirth": "2000-12-11",
+  "registeredDate": "2010-12-13"
+}
+
+<> 2026-10-22T164643.200.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
   "name": "Harsh M1 with billing account and kafka",
   "email": "123_billing_account_kafka@Example.com",
   "address": "123 main street",
@@ -488,18 +502,5 @@ Content-Type: application/json
 }
 
 <> 2026-10-19T024058.400.json
-
-###
-PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
-Content-Type: application/json
-
-{
-  "name": "John Doe",
-  "email": "test_updated@gmail.com",
-  "address": "123 Main St, Springfield",
-  "dateOfBirth": "1985-06-15"
-}
-
-<> 2026-10-19T023959.400.json
 
 ###
