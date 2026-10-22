@@ -103,12 +103,5 @@
     "email": "isabella.walker@example.com",
     "id": "223e4567-e89b-12d3-a456-426614174014",
     "name": "Isabella Walker"
-  },
-  {
-    "address": "123 main street",
-    "dateOfBirth": "2000-12-11",
-    "email": "123@Example.com",
-    "id": "850d1cea-3de7-49eb-b450-a85b5ef861c3",
-    "name": "Harsh M1"
   }
 ]

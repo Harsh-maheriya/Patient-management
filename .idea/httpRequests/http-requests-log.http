@@ -1,3 +1,41 @@
+GET http://localhost:4000/patients
+
+<> 2026-10-21T042535.200.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "123@Example.com",
+  "address": "123 main street",
+  "dateOfBirth": "2000-12-11",
+  "registeredDate": "2010-12-13"
+}
+
+<> 2026-10-21T042512.400.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Harsh M1",
+  "email": "123@Example.com",
+  "address": "123 main street",
+  "dateOfBirth": "2000-12-11",
+  "registeredDate": "2010-12-13"
+}
+
+<> 2026-10-21T042507.200.json
+
+###
+GET http://localhost:4000/patients
+
+<> 2026-10-21T042450.200.json
+
+###
 GRPC localhost:9001/BillingService/createBillingAccount
 
 <> 2026-10-21T022737.OK.json
@@ -487,41 +525,5 @@ Content-Type: application/json
 }
 
 <> 2026-10-19T003034.400.json
-
-###
-PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
-Content-Type: application/json
-
-{
-  "name": "Harsh M1",
-  "email": "123456789@Example.com",
-  "address": "123 main second street",
-  "dateOfBirth": "2000-12-11"
-}
-
-<> 2026-10-19T003026.200.json
-
-###
-PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
-Content-Type: application/json
-
-{
-  "name": "Harsh M1",
-  "email": "123456789@Example.com",
-  "address": "123 main second street",
-  "dateOfBirth": "2000-12-11",
-}
-
-<> 2026-10-19T003016.400.json
-
-###
-GET http://localhost:4000/patients
-
-<> 2026-10-18T230453.200.json
-
-###
-GET http://localhost:4000/patients
-
-<> 2026-10-18T230452.200.json
 
 ###

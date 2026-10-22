@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcd2b6c3-7df6-47e3-a778-bf289ccf3fe5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-10-18T221730.400.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-10-18T230405.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-10-18T230409.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-10-18T230452.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-10-18T230453.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-10-19T003016.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-10-19T003026.200.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,9 @@
       <entry key="3b3d625a-83bc-4563-ad20-431c6d824b2c" value="" />
       <entry key="6707dcf6-bfe1-45ec-8727-c44ea57a4cc2" value="" />
     </colors>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="125" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,63 +43,67 @@
   <component name="HttpClientOnboardingState">{
   &quot;isOnboardingCommentShown&quot;: true
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="2.0147053721852797" />
-      <entry key="MS500" value="4.023390465163767" />
-      <entry key="S2" value="7.93460461365346" />
-      <entry key="S5" value="9.59639060824158" />
-      <entry key="S10" value="10.26638646676721" />
-      <entry key="S30" value="11.104441093321157" />
-      <entry key="S60" value="12.941537410854325" />
-      <entry key="M2" value="17.595963195772637" />
-      <entry key="M5" value="29.029041601707966" />
-      <entry key="M10" value="58.170400359449154" />
-      <entry key="M15" value="110.42501001234245" />
-      <entry key="M30" value="304.8291113315357" />
-      <entry key="H1" value="589.4869803078112" />
-      <entry key="H2" value="898.1390316940942" />
-      <entry key="H4" value="1404.3263586118956" />
-      <entry key="D1" value="4511.189960146933" />
-      <entry key="W1" value="6242.7554416081575" />
+      <entry key="MS100" value="1.9128373112300068" />
+      <entry key="MS500" value="4.059326272186466" />
+      <entry key="S2" value="8.374040752057647" />
+      <entry key="S5" value="10.658089569289922" />
+      <entry key="S10" value="11.716181875909822" />
+      <entry key="S30" value="12.542936411229762" />
+      <entry key="S60" value="12.80532676806483" />
+      <entry key="M2" value="15.241093604521755" />
+      <entry key="M5" value="50.93367634786346" />
+      <entry key="M10" value="119.74069515878982" />
+      <entry key="M15" value="177.51097988135936" />
+      <entry key="M30" value="349.761934125005" />
+      <entry key="H1" value="645.5342332529502" />
+      <entry key="H2" value="1007.8772874390799" />
+      <entry key="H4" value="1555.3197731738378" />
+      <entry key="D1" value="4732.34280022589" />
+      <entry key="W1" value="6526.370644378783" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="2.6218508549262468E-270" />
-      <entry key="MS500" value="1.2126156152853664E-54" />
-      <entry key="S2" value="3.4870454487550245E-14" />
-      <entry key="S5" value="5.794736865973116E-6" />
-      <entry key="S10" value="0.004064689798977175" />
-      <entry key="S30" value="0.5720562510671304" />
-      <entry key="S60" value="2.949116912673824" />
-      <entry key="M2" value="8.062568031057477" />
-      <entry key="M5" value="17.664505508764837" />
-      <entry key="M10" value="25.968404428252047" />
-      <entry key="M15" value="30.650485075460754" />
-      <entry key="M30" value="37.40794562832966" />
-      <entry key="H1" value="43.352246676322615" />
-      <entry key="H2" value="53.18809762210341" />
-      <entry key="H4" value="82.46451180912959" />
-      <entry key="D1" value="328.8374052681084" />
-      <entry key="W1" value="475.41755717469283" />
+      <entry key="MS100" value="2.818768962104026E-13" />
+      <entry key="MS500" value="0.003090380082755664" />
+      <entry key="S2" value="0.2357778341916785" />
+      <entry key="S5" value="0.5610495128519306" />
+      <entry key="S10" value="0.7490323843812973" />
+      <entry key="S30" value="0.9081786764365475" />
+      <entry key="S60" value="0.9561945700239297" />
+      <entry key="M2" value="1.087035995038467" />
+      <entry key="M5" value="3.3141573890229767" />
+      <entry key="M10" value="9.932445476069493" />
+      <entry key="M15" value="16.7751738016611" />
+      <entry key="M30" value="31.879659786065222" />
+      <entry key="H1" value="47.18889688393189" />
+      <entry key="H2" value="63.47432459925964" />
+      <entry key="H4" value="95.50705603945792" />
+      <entry key="D1" value="345.14706401871933" />
+      <entry key="W1" value="496.2446394313646" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.9553308653836803" />
-      <entry key="MS500" value="3.9847802568171486" />
-      <entry key="S2" value="7.906178060463886" />
-      <entry key="S5" value="9.581727996800659" />
-      <entry key="S10" value="10.262179976220716" />
-      <entry key="S30" value="11.65670565285972" />
-      <entry key="S60" value="15.839181511604163" />
-      <entry key="M2" value="25.582928381811055" />
-      <entry key="M5" value="46.62265548032186" />
-      <entry key="M10" value="84.08354651418394" />
-      <entry key="M15" value="141.03001738046885" />
-      <entry key="M30" value="342.2068961656222" />
-      <entry key="H1" value="632.8205187840393" />
-      <entry key="H2" value="951.3151816768519" />
-      <entry key="H4" value="1486.7811031928286" />
-      <entry key="D1" value="4840.020151300259" />
-      <entry key="W1" value="6718.1714875830085" />
+      <entry key="MS100" value="1.8234494449827081" />
+      <entry key="MS500" value="3.9432089502097076" />
+      <entry key="S2" value="8.421925243162171" />
+      <entry key="S5" value="11.090209697157466" />
+      <entry key="S10" value="12.386545805026364" />
+      <entry key="S30" value="13.421000805950994" />
+      <entry key="S60" value="13.745697310535792" />
+      <entry key="M2" value="16.31747012649268" />
+      <entry key="M5" value="54.23154983645768" />
+      <entry key="M10" value="129.65016184756308" />
+      <entry key="M15" value="194.26063498659232" />
+      <entry key="M30" value="381.6167129967379" />
+      <entry key="H1" value="692.703862740571" />
+      <entry key="H2" value="1071.3381546174337" />
+      <entry key="H4" value="1650.8160709061142" />
+      <entry key="D1" value="5077.482437026768" />
+      <entry key="W1" value="7022.613728217358" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -111,57 +118,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Docker.billing-service.executor": "Run",
-    "Docker.patient-service-db.executor": "Run",
-    "Docker.patient-service.executor": "Run",
-    "HTTP Request.create-billing-account | #1.executor": "Run",
-    "HTTP Request.create-patient | POST Request to create a new Entity.executor": "Run",
-    "HTTP Request.delete-patient | Delete an entity with given id.executor": "Run",
-    "HTTP Request.get-patients | GET request to get all patients.executor": "Run",
-    "HTTP Request.http-requests-log | #1.executor": "Run",
-    "HTTP Request.update-patient | PUT Request to update an existing Entity.executor": "Run",
-    "Maven.billing-service [compile].executor": "Run",
-    "Maven.patient-service [clean].executor": "Run",
-    "Maven.patient-service [compile].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.BillingServiceApplication.executor": "Run",
-    "Spring Boot.PatientServiceApplication.executor": "Run",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Patient-management/patient-service/src/main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Docker.billing-service.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.kafka.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.patient-service-db.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.patient-service.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.create-billing-account | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.create-patient | POST Request to create a new Entity.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.delete-patient | Delete an entity with given id.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.get-patients | GET request to get all patients.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.http-requests-log | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.update-patient | PUT Request to update an existing Entity.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.billing-service [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.patient-service [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.patient-service [compile].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BillingServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.PatientServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Patient-management/patient-service/src/main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;kafka_conn_settings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Patient-management\patient-service\src\main" />
@@ -180,9 +190,9 @@
           <value>
             <map>
               <entry key="create-billing-account | #1" value="STOPPED" />
+              <entry key="create-patient | POST Request to create a new Entity" value="STOPPED" />
               <entry key="delete-patient | Delete an entity with given id" value="STOPPED" />
               <entry key="get-patients | GET request to get all patients" value="STOPPED" />
-              <entry key="http-requests-log | #1" value="STOPPED" />
               <entry key="update-patient | PUT Request to update an existing Entity" value="STOPPED" />
             </map>
           </value>
@@ -190,17 +200,17 @@
       </map>
     </option>
   </component>
-  <component name="RunManager" selected="Docker.billing-service">
+  <component name="RunManager" selected="Docker.kafka">
     <configuration name="create-billing-account | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/grpc-requests/billing-service/create-billing-account.http" executionIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="create-patient | POST Request to create a new Entity" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/patient-service/create-patient.http" executionIdentifier="POST Request to create a new Entity" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="delete-patient | Delete an entity with given id" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/patient-service/delete-patient.http" executionIdentifier="Delete an entity with given id" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="get-patients | GET request to get all patients" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/patient-service/get-patients.http" executionIdentifier="GET request to get all patients" runType="Run single request">
-      <method v="2" />
-    </configuration>
-    <configuration name="http-requests-log | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" executionIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="update-patient | PUT Request to update an existing Entity" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/patient-service/update-patient.http" executionIdentifier="PUT Request to update an existing Entity" runType="Run single request">
@@ -240,6 +250,60 @@
           </option>
           <option name="commandLineOptions" value="--network internal" />
           <option name="sourceFilePath" value="billing-service/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="kafka" type="docker-deploy" factoryName="docker-image" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="bitnamilegacy/kafka:latest" />
+          <option name="containerName" value="kafka" />
+          <option name="envVars">
+            <list>
+              <DockerEnvVarImpl>
+                <option name="name" value="KAFKA_CFG_ADVERTISED_LISTENERS" />
+                <option name="value" value="PLAINTEXT://kafka:9092,EXTERNAL://localhost:9094" />
+              </DockerEnvVarImpl>
+              <DockerEnvVarImpl>
+                <option name="name" value="KAFKA_CFG_CONTROLLER_LISTENER_NAMES" />
+                <option name="value" value="CONTROLLER" />
+              </DockerEnvVarImpl>
+              <DockerEnvVarImpl>
+                <option name="name" value="KAFKA_CFG_CONTROLLER_QUORUM_VOTERS" />
+                <option name="value" value="0@kafka:9093" />
+              </DockerEnvVarImpl>
+              <DockerEnvVarImpl>
+                <option name="name" value="KAFKA_CFG_LISTENER_SECURITY_PROTOCOL_MAP" />
+                <option name="value" value="CONTROLLER:PLAINTEXT,EXTERNAL:PLAINTEXT,PLAINTEXT:PLAINTEXT" />
+              </DockerEnvVarImpl>
+              <DockerEnvVarImpl>
+                <option name="name" value="KAFKA_CFG_LISTENERS" />
+                <option name="value" value="PLAINTEXT://:9092,CONTROLLER://:9093,EXTERNAL://:9094" />
+              </DockerEnvVarImpl>
+              <DockerEnvVarImpl>
+                <option name="name" value="KAFKA_CFG_NODE_ID" />
+                <option name="value" value="0" />
+              </DockerEnvVarImpl>
+              <DockerEnvVarImpl>
+                <option name="name" value="KAFKA_CFG_PROCESS_ROLES" />
+                <option name="value" value="controller,broker" />
+              </DockerEnvVarImpl>
+            </list>
+          </option>
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="9092" />
+                <option name="hostPort" value="9092" />
+              </DockerPortBindingImpl>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="9094" />
+                <option name="hostPort" value="9094" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="--network internal" />
         </settings>
       </deployment>
       <method v="2" />
@@ -313,6 +377,14 @@
                 <option name="name" value="SPRING_SQL_INIT_MODE" />
                 <option name="value" value="always" />
               </DockerEnvVarImpl>
+              <DockerEnvVarImpl>
+                <option name="name" value="BILLING_SERVICE_ADDRESS" />
+                <option name="value" value="billing-service" />
+              </DockerEnvVarImpl>
+              <DockerEnvVarImpl>
+                <option name="name" value="BILLING_SERVICE_GRPC_PORT" />
+                <option name="value" value="9001" />
+              </DockerEnvVarImpl>
             </list>
           </option>
           <option name="portBindings">
@@ -330,24 +402,25 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Docker.kafka" />
       <item itemvalue="Docker.billing-service" />
       <item itemvalue="Docker.patient-service-db" />
       <item itemvalue="Docker.patient-service" />
+      <item itemvalue="HTTP Request.create-patient | POST Request to create a new Entity" />
       <item itemvalue="HTTP Request.create-billing-account | #1" />
       <item itemvalue="HTTP Request.delete-patient | Delete an entity with given id" />
       <item itemvalue="HTTP Request.get-patients | GET request to get all patients" />
-      <item itemvalue="HTTP Request.http-requests-log | #1" />
       <item itemvalue="HTTP Request.update-patient | PUT Request to update an existing Entity" />
       <item itemvalue="Spring Boot.BillingServiceApplication" />
       <item itemvalue="Spring Boot.PatientServiceApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP Request.create-billing-account | #1" />
         <item itemvalue="HTTP Request.get-patients | GET request to get all patients" />
+        <item itemvalue="HTTP Request.create-patient | POST Request to create a new Entity" />
+        <item itemvalue="HTTP Request.create-billing-account | #1" />
         <item itemvalue="HTTP Request.delete-patient | Delete an entity with given id" />
         <item itemvalue="HTTP Request.update-patient | PUT Request to update an existing Entity" />
-        <item itemvalue="HTTP Request.http-requests-log | #1" />
       </list>
     </recent_temporary>
   </component>
@@ -371,6 +444,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
