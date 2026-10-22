@@ -1,1 +1,28 @@
-spring.application.name=api-gateway
+server:
+  port: 4004
+
+spring:
+  cloud:
+    gateway:
+      routes:
+      ## REST CLIENT -> http://localhost:4004/api/patients
+      ## API GATEWAY -> http://patient-service:4000/
+      ## PATIENT SERVICE (SPRING BOOT APP) -> /patients -> Patients array
+        - id: patient-service-route
+          uri: http://patient-service:4000
+          predicates:
+            ## ** can accept /../../ while * can only accept / one suffix
+            - Path=/api/patients/**
+          filters:
+            ## - strip-prefix=1
+            - StripPrefix=1
+
+        - id: api-docs-patient-route
+          uri: http://patient-service:4000
+          predicates:
+            - Path=/api-docs/patients
+          filters:
+            ## - rewrite-path=/api-docs/patients,/v3/api-docs
+            - RewritePath=/api-docs/patients,/v3/api-docs
+
+

@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcd2b6c3-7df6-47e3-a778-bf289ccf3fe5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +22,7 @@
     </colors>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="125" />
+    <option name="cachedIndexableFilesCount" value="153" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,61 +47,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0002039131975224" />
-      <entry key="MS500" value="1.635655217333885" />
-      <entry key="S2" value="7.038949221605432" />
-      <entry key="S5" value="18.94266264928564" />
-      <entry key="S10" value="40.69487196761137" />
-      <entry key="S30" value="97.0073818266014" />
-      <entry key="S60" value="130.42306937350588" />
-      <entry key="M2" value="154.97335565093928" />
-      <entry key="M5" value="174.33682816952302" />
-      <entry key="M10" value="183.21639413082073" />
-      <entry key="M15" value="188.720580096872" />
-      <entry key="M30" value="202.45548991181175" />
-      <entry key="H1" value="254.07620903282225" />
-      <entry key="H2" value="527.2717871185235" />
-      <entry key="H4" value="1259.3586508457759" />
-      <entry key="D1" value="5470.193922276125" />
-      <entry key="W1" value="8245.141266717399" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000000000001" />
+      <entry key="S10" value="1.0000001187503802" />
+      <entry key="S30" value="1.0307496857441365" />
+      <entry key="S60" value="1.7462448144302056" />
+      <entry key="M2" value="6.034860952379189" />
+      <entry key="M5" value="30.6120224719257" />
+      <entry key="M10" value="79.78038824467077" />
+      <entry key="M15" value="121.18064146059713" />
+      <entry key="M30" value="201.8237334766352" />
+      <entry key="H1" value="291.8130840599256" />
+      <entry key="H2" value="471.59848349949357" />
+      <entry key="H4" value="1024.5770945113763" />
+      <entry key="D1" value="5307.55123785956" />
+      <entry key="W1" value="8506.602224097134" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="2.3594348971721456E-183" />
-      <entry key="S10" value="4.857401462895797E-92" />
-      <entry key="S30" value="3.649704339428699E-31" />
-      <entry key="S60" value="6.345486838231966E-16" />
-      <entry key="M2" value="4.30013238961962E-8" />
-      <entry key="M5" value="0.004922802686832418" />
-      <entry key="M10" value="0.2895374853880037" />
-      <entry key="M15" value="1.1521758206723671" />
-      <entry key="M30" value="4.657420603496452" />
-      <entry key="H1" value="10.286669215861075" />
-      <entry key="H2" value="24.184439208760597" />
-      <entry key="H4" value="61.72769052318217" />
-      <entry key="D1" value="350.46607863626645" />
-      <entry key="W1" value="566.4949244062768" />
+      <entry key="S2" value="1.9972581699353028E-230" />
+      <entry key="S5" value="1.3419289775843977E-92" />
+      <entry key="S10" value="1.3005793313583858E-46" />
+      <entry key="S30" value="7.33889136402143E-16" />
+      <entry key="S60" value="3.778931214013661E-8" />
+      <entry key="M2" value="2.7395076497370587E-4" />
+      <entry key="M5" value="0.056926984518298515" />
+      <entry key="M10" value="0.33737479938764403" />
+      <entry key="M15" value="0.6106263444397977" />
+      <entry key="M30" value="1.136560347049291" />
+      <entry key="H1" value="2.3329031117834527" />
+      <entry key="H2" value="8.66104090297748" />
+      <entry key="H4" value="34.91602382026497" />
+      <entry key="D1" value="317.80119564470675" />
+      <entry key="W1" value="560.1312742905654" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.1990662854756742" />
-      <entry key="MS500" value="1.300995343273826" />
-      <entry key="S2" value="6.8434609448583235" />
-      <entry key="S5" value="18.816940087628122" />
-      <entry key="S10" value="40.61100782793288" />
-      <entry key="S30" value="96.96746642312684" />
-      <entry key="S60" value="130.39960623464378" />
-      <entry key="M2" value="154.96013157541773" />
-      <entry key="M5" value="174.3355002452954" />
-      <entry key="M10" value="183.4996928378869" />
-      <entry key="M15" value="189.86442308514594" />
-      <entry key="M30" value="207.10162256432204" />
-      <entry key="H1" value="264.35224851856157" />
-      <entry key="H2" value="551.4464514888231" />
-      <entry key="H4" value="1321.076394740429" />
-      <entry key="D1" value="5820.651923175867" />
-      <entry key="W1" value="8811.634338885297" />
+      <entry key="MS100" value="0.8827029962906549" />
+      <entry key="MS500" value="0.9753554615276419" />
+      <entry key="S2" value="0.9937810933225548" />
+      <entry key="S5" value="0.9975077808975304" />
+      <entry key="S10" value="0.9987532317130697" />
+      <entry key="S30" value="1.0303218955764202" />
+      <entry key="S60" value="1.7458868445073428" />
+      <entry key="M2" value="6.034530584345568" />
+      <entry key="M5" value="30.66731824684103" />
+      <entry key="M10" value="80.11482123014973" />
+      <entry key="M15" value="121.78795995590191" />
+      <entry key="M30" value="202.9572647825785" />
+      <entry key="H1" value="294.1430829506303" />
+      <entry key="H2" value="480.255519600455" />
+      <entry key="H4" value="1059.4871361735911" />
+      <entry key="D1" value="5625.34503660636" />
+      <entry key="W1" value="9066.731656471356" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -113,64 +116,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Docker.analytics-service.executor": "Run",
-    "Docker.billing-service.executor": "Run",
-    "Docker.kafka.executor": "Run",
-    "Docker.patient-service-db.executor": "Run",
-    "Docker.patient-service.executor": "Run",
-    "HTTP Request.create-billing-account | #1.executor": "Run",
-    "HTTP Request.create-patient | POST Request to create a new Entity.executor": "Run",
-    "HTTP Request.delete-patient | Delete an entity with given id.executor": "Run",
-    "HTTP Request.get-patients | GET request to get all patients.executor": "Run",
-    "HTTP Request.http-requests-log | #1.executor": "Run",
-    "HTTP Request.update-patient | PUT Request to update an existing Entity.executor": "Run",
-    "Maven.analytics-service [clean].executor": "Run",
-    "Maven.analytics-service [compile].executor": "Run",
-    "Maven.billing-service [compile].executor": "Run",
-    "Maven.patient-service [clean].executor": "Run",
-    "Maven.patient-service [compile].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.BillingServiceApplication.executor": "Run",
-    "Spring Boot.PatientServiceApplication.executor": "Run",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Patient-management/analytics-service",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "kafka_conn_settings",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Docker.analytics-service.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.billing-service.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.kafka.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.patient-service-db.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.patient-service.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.create-billing-account | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.create-patient | POST Request to create a new Entity.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.delete-patient | Delete an entity with given id.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.get-patients | GET request to get all patients.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.http-requests-log | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.update-patient | PUT Request to update an existing Entity.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.analytics-service [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.analytics-service [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.billing-service [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.patient-service [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.patient-service [compile].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BillingServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.PatientServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Patient-management/analytics-service&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;kafka_conn_settings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Patient-management\analytics-service" />
@@ -229,6 +232,13 @@
     <configuration name="AnalyticsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="analytics-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.pm.analyticsservice.AnalyticsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pm.apigateway.ApiGatewayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -460,6 +470,7 @@
       <item itemvalue="HTTP Request.delete-patient | Delete an entity with given id" />
       <item itemvalue="HTTP Request.get-patients | GET request to get all patients" />
       <item itemvalue="HTTP Request.update-patient | PUT Request to update an existing Entity" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
       <item itemvalue="Spring Boot.AnalyticsServiceApplication" />
       <item itemvalue="Spring Boot.BillingServiceApplication" />
       <item itemvalue="Spring Boot.PatientServiceApplication" />
