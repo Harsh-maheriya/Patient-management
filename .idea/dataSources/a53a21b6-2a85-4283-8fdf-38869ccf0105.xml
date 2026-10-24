@@ -11,9 +11,9 @@
 4||10|c|G
 4||10|C|G
 4||10|T|G</Grants>
-      <IntrospectionStateNumber>765</IntrospectionStateNumber>
+      <IntrospectionStateNumber>769</IntrospectionStateNumber>
       <ServerVersion>18.6</ServerVersion>
-      <StartupTime>1792750174</StartupTime>
+      <StartupTime>1792800451</StartupTime>
       <TimeZones>true ACDT
 true ACSST
 false ACST
@@ -288,9 +288,9 @@ false Asia/Dili
 false Asia/Dubai
 false Asia/Dushanbe
 true Asia/Famagusta
-true Asia/Gaza
+false Asia/Gaza
 false Asia/Harbin
-true Asia/Hebron
+false Asia/Hebron
 false Asia/Ho_Chi_Minh
 false Asia/Hong_Kong
 false Asia/Hovd
@@ -707,7 +707,7 @@ true posixrules
 13293||10|C|G
 13293||-9223372036854775808|U|G
 13293||10|U|G</Grants>
-      <IntrospectionStateNumber>765</IntrospectionStateNumber>
+      <IntrospectionStateNumber>769</IntrospectionStateNumber>
       <ObjectId>16384</ObjectId>
       <OwnerName>admin_user</OwnerName>
     </database>
@@ -4228,15 +4228,83 @@ true posixrules
       <AutoIntrospectionLevel>3</AutoIntrospectionLevel>
       <Comment>standard public schema</Comment>
       <Current>1</Current>
-      <LastIntrospectionL1Xid>765</LastIntrospectionL1Xid>
-      <LastIntrospectionL2Xid>765</LastIntrospectionL2Xid>
-      <LastIntrospectionL3Xid>765</LastIntrospectionL3Xid>
+      <LastIntrospectionL1Xid>769</LastIntrospectionL1Xid>
+      <LastIntrospectionL2Xid>769</LastIntrospectionL2Xid>
+      <LastIntrospectionL3Xid>769</LastIntrospectionL3Xid>
       <LastIntrospectionLevel>3</LastIntrospectionLevel>
-      <LastIntrospectionLocalTimestamp>2026-10-23.10:20:38</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2026-10-24.00:08:17</LastIntrospectionLocalTimestamp>
       <LastIntrospectionVersion>260210</LastIntrospectionVersion>
       <ObjectId>2200</ObjectId>
       <StateNumber>546</StateNumber>
       <OwnerName>pg_database_owner</OwnerName>
     </schema>
+    <table id="273" parent="272" name="users">
+      <DetailsLevel>2</DetailsLevel>
+      <ObjectId>24577</ObjectId>
+      <StateNumber>766</StateNumber>
+      <AccessMethodId>2</AccessMethodId>
+      <OwnerName>admin_user</OwnerName>
+    </table>
+    <column id="274" parent="273" name="id">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StateNumber>766</StateNumber>
+      <StoredType>uuid|0s</StoredType>
+      <TypeId>2950</TypeId>
+    </column>
+    <column id="275" parent="273" name="email">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StateNumber>766</StateNumber>
+      <StoredType>varchar(255)|0s</StoredType>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="276" parent="273" name="password">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StateNumber>766</StateNumber>
+      <StoredType>varchar(255)|0s</StoredType>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="277" parent="273" name="role">
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StateNumber>768</StateNumber>
+      <StoredType>varchar(255)|0s</StoredType>
+      <TypeId>1043</TypeId>
+    </column>
+    <index id="278" parent="273" name="users_pkey">
+      <ColNames>id</ColNames>
+      <NameSurrogate>1</NameSurrogate>
+      <ObjectId>24586</ObjectId>
+      <Primary>1</Primary>
+      <StateNumber>766</StateNumber>
+      <Unique>1</Unique>
+      <AccessMethodId>403</AccessMethodId>
+    </index>
+    <index id="279" parent="273" name="users_email_key">
+      <ColNames>email</ColNames>
+      <NameSurrogate>1</NameSurrogate>
+      <ObjectId>24588</ObjectId>
+      <StateNumber>766</StateNumber>
+      <Unique>1</Unique>
+      <AccessMethodId>403</AccessMethodId>
+      <CollationNames>default</CollationNames>
+      <CollationIds>100</CollationIds>
+      <CollationParentNames>pg_catalog</CollationParentNames>
+    </index>
+    <key id="280" parent="273" name="users_pkey">
+      <NameSurrogate>1</NameSurrogate>
+      <ObjectId>24587</ObjectId>
+      <Primary>1</Primary>
+      <StateNumber>766</StateNumber>
+      <UnderlyingIndexId>24586</UnderlyingIndexId>
+    </key>
+    <key id="281" parent="273" name="users_email_key">
+      <NameSurrogate>1</NameSurrogate>
+      <ObjectId>24589</ObjectId>
+      <StateNumber>766</StateNumber>
+      <UnderlyingIndexId>24588</UnderlyingIndexId>
+    </key>
   </database-model>
 </dataSource>
