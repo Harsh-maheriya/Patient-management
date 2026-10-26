@@ -14,11 +14,11 @@ public class JwtValidationGatewayFilterFactory extends
 
     private final WebClient webClient;
 
-    public JwtValidationGatewayFilterFactory(WebClient.Builder webClientBuilder,
+    public JwtValidationGatewayFilterFactory(
                  @Value("${auth.service.url}") String authServiceUrl){
 
         //auth-service:4005 like this or aws.service , so that's why we use env var
-        this.webClient= webClientBuilder.baseUrl(authServiceUrl).build();
+        this.webClient = WebClient.builder().baseUrl(authServiceUrl).build();
     }
 
     @Override
