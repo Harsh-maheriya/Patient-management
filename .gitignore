@@ -29,3 +29,6 @@ Thumbs.db
 # Secrets
 auth-service/src/main/resources/application.properties
 
+
+# CDK Build Output
+**/cdk.out/
