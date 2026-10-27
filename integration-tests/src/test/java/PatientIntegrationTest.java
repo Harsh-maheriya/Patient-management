@@ -15,7 +15,7 @@ public class PatientIntegrationTest {
     }
 
     @Test
-    public void sholdReturnPatientsWithValidToken() {
+    public void shouldReturnPatientsWithValidToken() {
         // TODO: Generating of Token logic should be in helper class
 
         String loginPayload = """
