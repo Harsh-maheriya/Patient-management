@@ -1,6 +1,7 @@
 ### POST Request to create a new Entity
-POST http://localhost:4000/patients
+POST http://lb-60922a6a.elb.localhost.localstack.cloud:4566/api/patients
 Content-Type: application/json
+Authorization: Bearer {{token}}
 
 {
   "name": "Harsh M1 with billing account,kafka and analytics",
